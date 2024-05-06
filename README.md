@@ -1,2 +1,2 @@
-# Hello
-This is just a demo repo
+# Hello, world !
+This, is just a demo repo
